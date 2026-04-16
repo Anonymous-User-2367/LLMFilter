@@ -107,7 +107,7 @@ conda activate llm-filter
 pip install -r requirements.txt
 ```
 
-3. Download the datasets [[Google Drive]](https://drive.google.com/uc?export=download&id=1eo4fPo7OZAofrFj0yviBo6x5wGg0aokq) into the folder ```./dataset/```.
+3. Download the datasets [Google Drive](https://drive.google.com/file/d/12yzdDGsGlnCLq3k0c3sXg0eIiNlqy9LB/view?usp=drive_link) into the folder `./dataset/`.
 
 4. Download the large language models [GPT2](https://huggingface.co/openai-community/gpt2), [OPT Family](https://huggingface.co/facebook/opt-125m), [LLaMA-7B](https://huggingface.co/huggyllama/llama-7b) into the folder ```./model/```.
 
